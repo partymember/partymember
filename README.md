@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @partymember
-- 👀 I’m interested in electronics/electris, embedded systems and IT.
-- - 🌱 I’m currently learning advanced cpp
-- 💞️ I’m looking to collaborate on simple cpp projects
+Python, C, Cpp
 - 📫 How to reach me: ...
 
 <!---
